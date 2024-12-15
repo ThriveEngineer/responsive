@@ -1,20 +1,15 @@
-# responsive
-<<<<<<< HEAD
+# Responsive
+### Responsive is a easy way to implement responsive layout in to your application using flutter.
 
-A new Flutter project.
+## How to use it?
 
-## Getting Started
+#### 1. Add the package to your dependencies
+``flutter pub add responsive_layout_thrive``
+#### 2. In your main.dart do this in the body of the Scaffold
+``Scaffold(body: Responsive(mobileBody: const MobileBody(), tabletBody: const TabletBody(), desktopBody: const DesktopBody()),``
 
-This project is a starting point for a Flutter application.
+#### 3. Now create three files, MobileBody, TabletBody and DesktopBody. In these you put the code for your app
 
-A few resources to get you started if this is your first Flutter project:
+#### 4. The last step is to import the files in to your main.dart file and your good to go
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-A Responsive Layout package for flutter.
->>>>>>> 9f74089810d8f9530a431cd62ed96700041fb3de
+##### You can also take a look at my [GitHub Profile](https://github.com/ThriveEngineer/)
