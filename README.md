@@ -1,5 +1,5 @@
 # Responsive
-### Responsive is a easy way to implement responsive layout in to your application using flutter.
+### Responsive is a easy way to implement responsive layout in to your application using flutter. [pub.dev](https://pub.dev/packages/responsive_layout_thrive)
 
 ## How to use it?
 
